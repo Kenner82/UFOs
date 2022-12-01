@@ -10,7 +10,9 @@ Using the "Filter Search" input boxes on the left side of the page, users can ty
 
 <img width="100%" alt="filter_by_date" src="https://user-images.githubusercontent.com/111674383/204994539-23d98d83-edf3-42ce-87f0-3b235d273dd8.png">
 
+The user can then type in a second criteria, such as only displaying results from California, and the dataset will be filtered down even further.
 
+<img width="100%" alt="filter_by_date_and_state" src="https://user-images.githubusercontent.com/111674383/204995059-9741f18b-0976-417e-ba8b-f096c5b1afa6.png">
 
 ## Summary
 ### Drawbacks (1)
